@@ -2,7 +2,7 @@
 
 
 Resposta 1: dotnet new webapi
-Resposta 2: o codigo
+
 Resposta 3:
 <Project Sdk="Microsoft.NET.Sdk">
 
